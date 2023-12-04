@@ -26,6 +26,6 @@ Contributions to improve or adapt the scripts are welcome. Feel free to fork the
 This project is licensed under the MIT License.
 
 ---
-<a href="https://mateuszbryll.com/">
+<a href="https://mateuszbryll.com/cjmf/">
 <img src="https://mateuszbryll.com/wp-content/uploads/2023/11/Tech-Trails-by-Mateusz-Bryll-Logo.png" />
 </a>
