@@ -1,5 +1,5 @@
 # Build Kubernetes cluster
-This repository hosts all the scripts featured in the "Build Kubernetes Cluster" series, available on my [Tech Trails by Mateusz Bryll website](https://mateuszbryll.com/). The series provides a detailed, hands-on guide to setting up and configuring a Kubernetes cluster.
+This repository hosts all the scripts featured in the "Build Kubernetes Cluster" series, available on my [Tech Trails by Mateusz Bryll website](https://mateuszbryll.com/cjmf/). The series provides a detailed, hands-on guide to setting up and configuring a Kubernetes cluster.
 
 ## Overview
 The repository contains scripts covering various stages of Kubernetes cluster setup, including VM creation and configuration, network setup, and automation of the deployment of Worker Nodes and Control Plane. Go to the full series [here](https://mateuszbryll.com/articles/build-kubernetes-cluster/).
