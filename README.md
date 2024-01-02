@@ -18,6 +18,7 @@ For a detailed guide on these scripts, visit the articles in the series:
 - [The Blueprint: Designing a Kubernetes Cluster with Kubeadm](https://mateuszbryll.com/build-kubernetes-cluster/the-blueprint-designing-a-kubernetes-cluster-with-kubeadm/)
 - [Laying Groundwork: Preparing the Infrastructure for the Kubernetes Cluster](https://mateuszbryll.com/build-kubernetes-cluster/laying-groundwork-preparing-the-infrastructure-for-the-kubernetes-cluster/)
 - [Navigating to details: Configuring the Kubernetes Control Plane node](https://mateuszbryll.com/build-kubernetes-cluster/navigating-to-details-configuring-the-kubernetes-control-plane-node/)
+- [Propelling forward: Setting up Worker Nodes](https://mateuszbryll.com/build-kubernetes-cluster/propelling-forward-setting-up-worker-nodes/)
 
 ### Contribution
 Contributions to improve or adapt the scripts are welcome. Feel free to fork the repository and submit pull requests.
